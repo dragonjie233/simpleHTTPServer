@@ -6,6 +6,8 @@
 
 基于 C# 的 [HttpListener](https://learn.microsoft.com/zh-cn/dotnet/api/system.net.httplistener?view=net-7.0) 库进行开发。
 
+如果你想运行此仓库，并且 `Start` 方法出现“拒绝访问”的报错信息，那么请你以“管理员身份”重新运行编辑器后再运行代码即可。
+
 ### 目前支持功能
 
 - 可响应指定目录内的 HTML/CSS/JS 和图片资源；
